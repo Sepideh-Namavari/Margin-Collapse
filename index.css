@@ -1,0 +1,16 @@
+#log {text-align: center;}
+#em {text-align: left;}
+#pw {text-align: left;
+margin-bottom: 10px;}
+
+#box { text-align: center;
+    background-color: blueviolet;
+width: 300px;
+height: auto;
+padding: 5px 20px 35px 20px;
+border: rgb(126, 6, 6) solid 5px;
+border-radius: 10%;
+}
+#reme {text-align: left;
+margin-top: 12px;}
+#forg {text-align: right;}
